@@ -227,7 +227,7 @@ h1 {
 }
 
 .introduction {
-    background-image: url(/image/background-img.png);
+    background-image: url(image/background-img.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
